@@ -1,0 +1,17 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Practica 4, Modelado y control Sistema Endocrino'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Axel Gilberto
+    family-names: Estrada Lopez
+    email: l22212253@tectijuana.edu.mx
+    name-particle: AXEL
+    affiliation: Tecnm/ITT Tijuana
+repository-code: 'https://github.com/Axel-5tr4da/Endocrino'
+license: BSD-2-Clause
